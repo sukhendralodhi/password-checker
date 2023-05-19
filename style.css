@@ -1,0 +1,28 @@
+#strengthIndicator {
+    display: inline-block;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.veryWeak {
+    background-color: red;
+}
+
+.weak {
+    background-color: orange;
+}
+
+.medium {
+    background-color: yellow;
+    color: black;
+}
+
+.strong {
+    background-color: green;
+}
+
+.veryStrong {
+    background-color: darkgreen;
+}
